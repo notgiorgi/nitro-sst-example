@@ -5,3 +5,6 @@ dist
 .cache
 .output
 .env
+
+# sst
+.sst
